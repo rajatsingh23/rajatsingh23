@@ -1,5 +1,5 @@
 
-<img src="images/rajatSingh.png" width="100%">
+<img src="images/name.gif" width="100%">
 
 <p align="center">
   <a href="https://rajatsinghportfolio.netlify.app/" target="_blank">
