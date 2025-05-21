@@ -16,7 +16,7 @@
   </a>
 </p>
 
-I enjoy writing code that solves real-world problems and motivated by the power of technology as a tool for positive change. I'm always eager to learn, grow, and contribute to projects that make a meaningful impact.
+I enjoy writing code that solves real-world problems and am motivated by the power of technology as a tool for positive change. I'm always eager to learn, grow, and contribute to projects that create meaningful impact.
 
 See [my website](https://rajatsinghportfolio.netlify.app/) for more information!
 
